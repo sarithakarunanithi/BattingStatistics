@@ -1,7 +1,7 @@
 //http://faculty.strose.edu/avitabij/csc202fall11/solutions/solution5.htm
 //https://www.google.com/webhp?sourceid=chrome-instant&rlz=1C1CHZL_enUS679US679&ion=1&espv=2&ie=UTF-8#q=calculate+a+player%E2%80%99s+batting+statistics+java+solution
 
-//created by Saritha on 04/20/17
+//created by Saritha on 04/20/17 test
 
 import java.util.Scanner;
 
